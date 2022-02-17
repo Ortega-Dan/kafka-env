@@ -1,0 +1,6 @@
+rm -rf kafka_2.13-3.0.0
+tar -zxvf kafka_2.13-3.0.0.tgz
+cp *.sh kafka_2.13-3.0.0/.
+cd kafka_2.13-3.0.0
+gnome-terminal
+gnome-terminal
